@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pre> My Vacation is in HongKong
+    </pre>
+     <pre> I <b> Love</b> <i> HongKong </i> </pre>
+    <hr>
+      Hong Kong has 7 million people.
+      <hr>
+      Largest Business area in all of Asia.
+      <hr>
+    </pre>
+    <h1 style= "color:white; background-color:red;" >HongKong香港</h1>
+    <img src="hong-kong-logo-png-7.png" width="250" height="120">
+    <pre> As stated before,  <mark> Hong Kong </mark> has the largest <ins> Asian </ins> stock exchange.</pre>
+    <img src="The-most-beautiful-places-to-visit-in-Hong.jpg" width="250" height="150">
+    <hr>
+    Victoria Harbor is one of the largest shipping ports in all of Asia. Leading the world in manufactoring and commerce.
+    <hr>
+    <img src="R (7).jpg" width="250" height="120">
+    <hr>
+    Hong Kong has one of the oldest tram systems due to British influence. After years of influence Hong Kong had adopted many new cultures.
+    <hr>
+</body>
+</html>
